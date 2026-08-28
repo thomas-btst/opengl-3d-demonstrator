@@ -1,0 +1,254 @@
+[
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include  -Wall -g -std=gnu++17 -o stbimage/CMakeFiles/stbimage.dir/src/stb_image.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/src/stb_image.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/src/stb_image.cpp",
+  "output": "stbimage/CMakeFiles/stbimage.dir/src/stb_image.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -g -o glad/CMakeFiles/glad.dir/src/glad.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/src/glad.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/src/glad.c",
+  "output": "glad/CMakeFiles/glad.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o glfw-3.3.8/src/CMakeFiles/glfw.dir/context.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/context.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/context.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o glfw-3.3.8/src/CMakeFiles/glfw.dir/init.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/init.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/init.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o glfw-3.3.8/src/CMakeFiles/glfw.dir/input.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/input.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/input.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o glfw-3.3.8/src/CMakeFiles/glfw.dir/monitor.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/monitor.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/monitor.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o glfw-3.3.8/src/CMakeFiles/glfw.dir/vulkan.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/vulkan.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/vulkan.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o glfw-3.3.8/src/CMakeFiles/glfw.dir/window.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/window.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/window.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_init.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/x11_init.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/x11_init.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_init.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/x11_monitor.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/x11_monitor.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_monitor.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_window.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/x11_window.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/x11_window.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_window.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o glfw-3.3.8/src/CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/xkb_unicode.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/xkb_unicode.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/xkb_unicode.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_time.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/posix_time.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/posix_time.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_time.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_thread.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/posix_thread.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/posix_thread.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o glfw-3.3.8/src/CMakeFiles/glfw.dir/glx_context.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/glx_context.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/glx_context.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/glx_context.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o glfw-3.3.8/src/CMakeFiles/glfw.dir/egl_context.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/egl_context.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/egl_context.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -Wdeclaration-after-statement -o glfw-3.3.8/src/CMakeFiles/glfw.dir/osmesa_context.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/osmesa_context.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/osmesa_context.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glfw-3.3.8/src -g -std=gnu99 -fPIC -Wall -o glfw-3.3.8/src/CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/linux_joystick.c",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/src/linux_joystick.c",
+  "output": "glfw-3.3.8/src/CMakeFiles/glfw.dir/linux_joystick.c.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/imgui-1.91.1/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1  -Wall -g -std=gnu++17 -o imgui-1.91.1/CMakeFiles/imgui.dir/imgui_demo.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/imgui_demo.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/imgui_demo.cpp",
+  "output": "imgui-1.91.1/CMakeFiles/imgui.dir/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/imgui-1.91.1/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1  -Wall -g -std=gnu++17 -o imgui-1.91.1/CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/imgui_draw.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/imgui_draw.cpp",
+  "output": "imgui-1.91.1/CMakeFiles/imgui.dir/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/imgui-1.91.1/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1  -Wall -g -std=gnu++17 -o imgui-1.91.1/CMakeFiles/imgui.dir/backends/imgui_impl_glfw.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/backends/imgui_impl_glfw.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/backends/imgui_impl_glfw.cpp",
+  "output": "imgui-1.91.1/CMakeFiles/imgui.dir/backends/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/imgui-1.91.1/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1  -Wall -g -std=gnu++17 -o imgui-1.91.1/CMakeFiles/imgui.dir/backends/imgui_impl_opengl3.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/backends/imgui_impl_opengl3.cpp",
+  "output": "imgui-1.91.1/CMakeFiles/imgui.dir/backends/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/imgui-1.91.1/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1  -Wall -g -std=gnu++17 -o imgui-1.91.1/CMakeFiles/imgui.dir/misc/cpp/imgui_stdlib.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/misc/cpp/imgui_stdlib.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/misc/cpp/imgui_stdlib.cpp",
+  "output": "imgui-1.91.1/CMakeFiles/imgui.dir/misc/cpp/imgui_stdlib.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/imgui-1.91.1/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1  -Wall -g -std=gnu++17 -o imgui-1.91.1/CMakeFiles/imgui.dir/imgui_tables.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/imgui_tables.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/imgui_tables.cpp",
+  "output": "imgui-1.91.1/CMakeFiles/imgui.dir/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/imgui-1.91.1/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1  -Wall -g -std=gnu++17 -o imgui-1.91.1/CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/imgui_widgets.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/imgui_widgets.cpp",
+  "output": "imgui-1.91.1/CMakeFiles/imgui.dir/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/imgui-1.91.1/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1  -Wall -g -std=gnu++17 -o imgui-1.91.1/CMakeFiles/imgui.dir/imgui.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/imgui.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1/imgui.cpp",
+  "output": "imgui-1.91.1/CMakeFiles/imgui.dir/imgui.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glengine/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o glengine/CMakeFiles/glengine.dir/src/orbitalCamera.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/src/orbitalCamera.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/src/orbitalCamera.cpp",
+  "output": "glengine/CMakeFiles/glengine.dir/src/orbitalCamera.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/glengine/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o glengine/CMakeFiles/glengine.dir/src/glengine.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/src/glengine.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/src/glengine.cpp",
+  "output": "glengine/CMakeFiles/glengine.dir/src/glengine.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/tp04/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/tp04/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/tp04/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/tp04/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/tp04/CMakeFiles/tp04.dir/src/main.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/tp04/src/main.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/tp04/src/main.cpp",
+  "output": "exosTP/tp04/CMakeFiles/tp04.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/tp_obj/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/tp_obj/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/tp_obj/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/tp_obj/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/tp_obj/CMakeFiles/tp_obj.dir/src/main.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/tp_obj/src/main.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/tp_obj/src/main.cpp",
+  "output": "exosTP/tp_obj/CMakeFiles/tp_obj.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet/CMakeFiles/projet.dir/src/config.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet/src/config.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet/src/config.cpp",
+  "output": "exosTP/projet/CMakeFiles/projet.dir/src/config.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet/CMakeFiles/projet.dir/src/main.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/src/main.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/src/main.cpp",
+  "output": "exosTP/projet/CMakeFiles/projet.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet/CMakeFiles/projet.dir/src/window.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/src/window.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/src/window.cpp",
+  "output": "exosTP/projet/CMakeFiles/projet.dir/src/window.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet/CMakeFiles/projet.dir/src/camera.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/src/camera.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/src/camera.cpp",
+  "output": "exosTP/projet/CMakeFiles/projet.dir/src/camera.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet/CMakeFiles/projet.dir/src/shader.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/src/shader.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/src/shader.cpp",
+  "output": "exosTP/projet/CMakeFiles/projet.dir/src/shader.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet/CMakeFiles/projet.dir/src/mesh.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/src/mesh.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet/src/mesh.cpp",
+  "output": "exosTP/projet/CMakeFiles/projet.dir/src/mesh.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet2/CMakeFiles/projet2.dir/src/config.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet2/src/config.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet2/src/config.cpp",
+  "output": "exosTP/projet2/CMakeFiles/projet2.dir/src/config.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet2/CMakeFiles/projet2.dir/src/main.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/src/main.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/src/main.cpp",
+  "output": "exosTP/projet2/CMakeFiles/projet2.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet2/CMakeFiles/projet2.dir/src/window.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/src/window.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/src/window.cpp",
+  "output": "exosTP/projet2/CMakeFiles/projet2.dir/src/window.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet2/CMakeFiles/projet2.dir/src/camera.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/src/camera.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/src/camera.cpp",
+  "output": "exosTP/projet2/CMakeFiles/projet2.dir/src/camera.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet2/CMakeFiles/projet2.dir/src/shader.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/src/shader.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/src/shader.cpp",
+  "output": "exosTP/projet2/CMakeFiles/projet2.dir/src/shader.cpp.o"
+},
+{
+  "directory": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+  "command": "/usr/bin/g++ -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/stbimage/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glad/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glfw-3.3.8/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glm-1.0.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/imgui-1.91.1 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/build/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/BEFORE -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/include -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/AFTER -I/home/tito/Documents/iut/s5/opengl/baseGL-2024 -I/home/tito/Documents/iut/s5/opengl/baseGL-2024/glengine/include  -Wall -g -std=gnu++17 -o exosTP/projet2/CMakeFiles/projet2.dir/src/mesh.cpp.o -c /home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/src/mesh.cpp",
+  "file": "/home/tito/Documents/iut/s5/opengl/baseGL-2024/exosTP/projet2/src/mesh.cpp",
+  "output": "exosTP/projet2/CMakeFiles/projet2.dir/src/mesh.cpp.o"
+}
+]

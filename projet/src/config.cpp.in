@@ -1,0 +1,3 @@
+#include "../include/projet/config.hpp"
+
+const char* _resources_directory = "@RESOURCES_DIRECTORY@";

@@ -1,0 +1,450 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "stbimage",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-stbimage-Debug-273ebe1ba9b74659f0f1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "stbimage",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "glad",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-glad-Debug-d11180d8badd9e7cd6d0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "glad",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "glfw-3.3.8",
+					"childIndexes" : 
+					[
+						4
+					],
+					"jsonFile" : "directory-glfw-3.3.8-Debug-8834db44167c8aac6308.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "glfw-3.3.8"
+				},
+				{
+					"build" : "glfw-3.3.8/src",
+					"jsonFile" : "directory-glfw-3.3.8.src-Debug-80517ec8f2d5d0f8e077.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "glfw-3.3.8/src",
+					"targetIndexes" : 
+					[
+						2,
+						9
+					]
+				},
+				{
+					"build" : "glm-1.0.1/glm",
+					"jsonFile" : "directory-glm-1.0.1.glm-Debug-590713ef4798e75116c5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "glm-1.0.1/glm"
+				},
+				{
+					"build" : "imgui-1.91.1",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-imgui-1.91.1-Debug-b8f09a7c53d763982be9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "imgui-1.91.1",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "glengine",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-glengine-Debug-c3b2385eede9f06cd1db.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "glengine",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "exosTP",
+					"childIndexes" : 
+					[
+						9,
+						10,
+						11,
+						12
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-exosTP-Debug-535ad59d8a73a963db25.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "exosTP"
+				},
+				{
+					"build" : "exosTP/tp04",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-exosTP.tp04-Debug-84502adef6aa76949ced.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8.2"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 7,
+					"source" : "exosTP/tp04",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "exosTP/tp_obj",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-exosTP.tp_obj-Debug-1e2c6689f0a397f164d8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8.2"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 8,
+					"source" : "exosTP/tp_obj",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "exosTP/projet",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-exosTP.projet-Debug-e30de7d6581de8ab9d9b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8.2"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 9,
+					"source" : "exosTP/projet",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "exosTP/projet2",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-exosTP.projet2-Debug-9e925081ab3550d3b1bc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8.2"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 10,
+					"source" : "exosTP/projet2",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						5
+					],
+					"name" : "openGLDemo"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "stbimage",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "glad",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3,
+						4
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "imgui",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "glengine",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						7,
+						8,
+						9,
+						10
+					],
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "exosTP",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "tp04",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "tp_obj",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "projet",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "projet2",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "glad::@74ca6b3581f0d7366b1f",
+					"jsonFile" : "target-glad-Debug-833bcb82ba7836c223d3.json",
+					"name" : "glad",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "glengine::@9cbeaf0b24723657094d",
+					"jsonFile" : "target-glengine-Debug-529bdc089e6e668234c2.json",
+					"name" : "glengine",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "glfw::@53745a2e4e6659a165f0",
+					"jsonFile" : "target-glfw-Debug-9f8150d3286c809fa407.json",
+					"name" : "glfw",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "imgui::@65c4926b0b8b4b4ed0d7",
+					"jsonFile" : "target-imgui-Debug-d77d3ba0df29df7425ee.json",
+					"name" : "imgui",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "projet::@0f4177d50d0f495f17ff",
+					"jsonFile" : "target-projet-Debug-15a91356cb663c6fe141.json",
+					"name" : "projet",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "projet2::@60ae3b854131f491c218",
+					"jsonFile" : "target-projet2-Debug-eb560504c112ff0f1485.json",
+					"name" : "projet2",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "stbimage::@aa02de3a09f1fdc97810",
+					"jsonFile" : "target-stbimage-Debug-9f35558be73429c8cccc.json",
+					"name" : "stbimage",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "tp04::@02000282b166c121b88d",
+					"jsonFile" : "target-tp04-Debug-bf6a7bcf7eb7d1c53dc8.json",
+					"name" : "tp04",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "tp_obj::@aab7e4df51f1ad998a82",
+					"jsonFile" : "target-tp_obj-Debug-81c6dbbfe652547172bd.json",
+					"name" : "tp_obj",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "update_mappings::@53745a2e4e6659a165f0",
+					"jsonFile" : "target-update_mappings-Debug-64c8ba17f2c5f31b466b.json",
+					"name" : "update_mappings",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tito/Documents/iut/s5/opengl/baseGL-2024/build",
+		"source" : "/home/tito/Documents/iut/s5/opengl/baseGL-2024"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
