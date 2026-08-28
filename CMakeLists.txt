@@ -25,6 +25,9 @@ set(CMAKE_CXX_STANDARD "17")
 ## Lib dependency
 # OpenGL
 find_package(OpenGL REQUIRED)
+include_directories(
+    ${OPENGL_INCLUDE_DIR}
+)
 
 if ( ${CMAKE_SYSTEM_NAME} MATCHES "Linux" )
     # GLX <-> Utilisation du serveur X pour le rendu

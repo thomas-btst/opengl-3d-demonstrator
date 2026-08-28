@@ -61,4 +61,4 @@ install(
 )
 
 # Linking
-target_link_libraries(${PROJECT_NAME} ${OPENGL_LIBRARY} stbimage glad glfw glm imgui glengine)
+target_link_libraries(${PROJECT_NAME} ${OPENGL_gl_LIBRARY} m stbimage glad glfw glm imgui glengine)
